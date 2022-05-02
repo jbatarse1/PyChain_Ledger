@@ -2,6 +2,25 @@
 
 This Python application is to create a Blockchain-based Ledger System. Streamlit dashboard allows for a user-friendly web interface. The ledger will allow partner banks to conduct financial transaction and to verify the integrity of the data.
 
+Features include:
+
+Complete `PyChain` ledger,
+Userfriendly interface Streamlit application
+Storing some mined blocks in your `PyChain` ledger. 
+Testing the blockchain validation process by using the `PyChain` ledger.
+
+To do these, complete the following steps:
+
+1. In the terminal, run the Streamlit application by
+using `streamlit run pychain.py`.
+
+2. Enter values for the sender, receiver, and amount, and then click the "Add
+Block" button. Do this several times to store several blocks in the ledger.
+
+3. Verify the block contents and hashes in the Streamlit drop-down menu. 
+
+4. Test the blockchain validation process by using the web interface.
+
 ## Technologies
 
 This application incorportates the following required dependancies to run:
