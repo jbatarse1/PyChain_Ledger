@@ -33,7 +33,16 @@ pip intall streamlit
 
 To run this application, create a clone on the local desktop. Then, initiate your conda environment.
 In Terminal command line, type "streamlit run pychain.py". This will open a web browser.
+
+Below is a validated and verified blockchain example:
  
+Transactions Verified 
+ <img width="1017" alt="verified_block" src="https://user-images.githubusercontent.com/93550651/166176509-dc2490a4-014a-4bde-ba1c-a7e0742874f4.png">
+
+Blockchain Validated
+<img width="1017" alt="valid_block" src="https://user-images.githubusercontent.com/93550651/166176523-b61db151-6fe5-4952-98b0-648fd4c6c279.png">
+
+
 
 ## Contributors
 
